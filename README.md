@@ -1,4 +1,4 @@
-# mlflow-infra
+# mlops-argocd-infrastructure
 
 Project: Mlops-infrastructure
 
